@@ -5,7 +5,7 @@ import CoreFitnessDesktop from '../../assets/video-17.mp4'
 
 function Home() {
   return (
-    <div id='Home' className='h-full w-full text-white'>
+    <div id='Home' className='h-full w-full bg-[#0E0E0E] text-white'>
       <div>
           <video className='w-full h-screen block lg:hidden object-cover object-center' src={CoreFitnessMoblie} autoPlay loop muted title='Core Fitness Moblie' alt='Core Fitness Moblie'></video>
           <video className='w-full h-screen hidden lg:block object-cover object-center' src={CoreFitnessDesktop} autoPlay loop muted title='Core Fitness Desktop' alt='Core Fitness Moblie'></video>
