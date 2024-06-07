@@ -2,7 +2,7 @@ import React from 'react'
 import { AiOutlineTwitter , AiOutlineInstagram , AiOutlineWhatsApp } from "react-icons/ai";
 import crossfit from '../../assets/img-1.jpg'
 import weightlifting from '../../assets/img-2.webp'
-import Fitness from '../../assets/img-3.webp'
+import Fitness from '../../assets/img-3.jpg'
 import bodybuilding from '../../assets/img-4.webp'
 function Team() {
   return (
