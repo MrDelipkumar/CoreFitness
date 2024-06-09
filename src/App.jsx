@@ -6,6 +6,7 @@ const Package = React.lazy(() => import("./Pages/Package/Package"));
 const Team = React.lazy(() => import("./Pages/Team/Team"));
 const Contact = React.lazy(() => import("./Pages/Contact/Contact"));
 const Rights = React.lazy(() => import("./Components/Rights/Rights"));
+import { SpeedInsights } from '@vercel/speed-insights/react';
 function App() {
   return (
     <div>
@@ -20,6 +21,7 @@ function App() {
       <Team/>
       <Contact/> 
       <Rights/>
+      <SpeedInsights />
       </Suspense>
     </div>
   )
