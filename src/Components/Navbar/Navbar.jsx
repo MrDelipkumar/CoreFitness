@@ -23,11 +23,11 @@ function Navbar() {
         </div> 
         <div className='hidden lg:block'>
             <ul className='flex gap-7 font-semibold'>
-                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer'><Link to="Home" spy={true} smooth={true} offset={0} duration={800}>Home</Link></li>
-                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer'><Link to="About" spy={true} smooth={true} offset={0} duration={800}>About us</Link></li>
-                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer'><Link to="Package" spy={true} smooth={true} offset={0} duration={800}>Package</Link></li>
-                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer'><Link to="Team" spy={true} smooth={true} offset={0} duration={800}>Our Team</Link></li>
-                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer'><Link to="Contact" spy={true} smooth={true} offset={0} duration={800}>Contact</Link></li>
+                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer hover:text-black'><Link to="Home" spy={true} smooth={true} offset={0} duration={800}>Home</Link></li>
+                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer hover:text-black'><Link to="About" spy={true} smooth={true} offset={0} duration={800}>About us</Link></li>
+                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer hover:text-black'><Link to="Package" spy={true} smooth={true} offset={0} duration={800}>Package</Link></li>
+                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer hover:text-black'><Link to="Team" spy={true} smooth={true} offset={0} duration={800}>Our Team</Link></li>
+                <li className='hover:bg-orange-500 px-2 py-1 rounded-[5px] cursor-pointer hover:text-black'><Link to="Contact" spy={true} smooth={true} offset={0} duration={800}>Contact</Link></li>
             </ul>
         </div>
         </div>
