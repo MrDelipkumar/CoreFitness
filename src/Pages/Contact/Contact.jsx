@@ -22,7 +22,7 @@ function Contact() {
             </div>
         </div>
         <div className='space-y-5 flex flex-col justify-center items-center'>
-             <div className='bg-[#FFFFFF1A] h-[150px] md:w-[300px] w-[340px] rounded-[5px] flex flex-col justify-center items-center space-y-2'>
+             <div className='bg-[#FFFFFF1A] h-[150px] md:w-[300px] w-[330px] rounded-[5px] flex flex-col justify-center items-center space-y-2'>
                 <div className='text-orange-500 flex items-center gap-2'><MdOutlinePhonelinkRing size={30}/>
                 <h1>Phone</h1>
                 </div>
