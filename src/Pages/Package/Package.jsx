@@ -15,11 +15,11 @@ function Package() {
           <h1 className='text-center text-orange-500 font-font text-[24px]'>1 Month unlimited</h1>
           <h2 className='text-center font-bold pt-3 text-[20px]'>99 $ / Month</h2>
           <div className='flex flex-col items-center pt-7 font-medium'>
-            <span className='pt-3'>Free riding</span>
+            <span className='pt-3'>Body Building</span>
             <span className='pt-3'>Unlimited equipments</span>
             <span className='pt-3'>Personal trainer</span>
             <span className='pt-3'>Weight losing classes</span>
-            <span className='pt-3'>Month to mouth</span>
+            <span className='pt-3'>Weight lifting</span>
             <span className='pt-3'>No time restriction</span>
           </div>
           <div className='flex justify-center pt-10'>
@@ -31,11 +31,11 @@ function Package() {
           <h1 className='text-center text-orange-500 font-font text-[24px]'>12 Month unlimited</h1>
           <h2 className='text-center font-bold pt-3 text-[20px]'>499 $ / Month</h2>
           <div className='flex flex-col items-center pt-7 font-medium'>
-            <span className='pt-3'>Free riding</span>
+            <span className='pt-3'>Body Building</span>
             <span className='pt-3'>Unlimited equipments</span>
             <span className='pt-3'>Personal trainer</span>
             <span className='pt-3'>Weight losing classes</span>
-            <span className='pt-3'>Month to mouth</span>
+            <span className='pt-3'>Weight lifting</span>
             <span className='pt-3'>No time restriction</span>
           </div>
           <div className='flex justify-center pt-10'>
@@ -49,11 +49,11 @@ function Package() {
           <h1 className='text-center text-orange-500 font-font text-[24px]'>3 Month unlimited</h1>
           <h2 className='text-center font-bold pt-3 text-[20px]'>299 $ / Month</h2>
           <div className='flex flex-col items-center pt-7 font-medium'>
-            <span className='pt-3'>Free riding</span>
+            <span className='pt-3'>Body Building</span>
             <span className='pt-3'>Unlimited equipments</span>
             <span className='pt-3'>Personal trainer</span>
             <span className='pt-3'>Weight losing classes</span>
-            <span className='pt-3'>Month to mouth</span>
+            <span className='pt-3'>Weight lifting</span>
             <span className='pt-3'>No time restriction</span>
           </div>
           <div className='flex justify-center pt-10'>
