@@ -21,20 +21,20 @@ function Contact() {
             <div className=' pt-4'><button className='bg-orange-500 text-white px-4 py-1 rounded-[5px] font-semibold'>Sumbit</button></div>
             </div>
         </div>
-        <div className='space-y-5'>
-             <div className='bg-[#FFFFFF1A] h-[150px] md:w-[300px] w-[350px] rounded-[5px] flex flex-col justify-center items-center space-y-2'>
+        <div className='space-y-5 flex flex-col justify-center items-center'>
+             <div className='bg-[#FFFFFF1A] h-[150px] md:w-[300px] w-[340px] rounded-[5px] flex flex-col justify-center items-center space-y-2'>
                 <div className='text-orange-500 flex items-center gap-2'><MdOutlinePhonelinkRing size={30}/>
                 <h1>Phone</h1>
                 </div>
                 <span className='pt-2 font-semibold'>+65 6325476012</span>
              </div>
-             <div className='bg-[#FFFFFF1A] md:w-[300px] w-[350px] h-[150px] rounded-[5px] flex flex-col justify-center items-center space-y-4'>
+             <div className='bg-[#FFFFFF1A] md:w-[300px] w-[340px] h-[150px] rounded-[5px] flex flex-col justify-center items-center space-y-4'>
              <div className='text-orange-500 flex items-center gap-2'><AiOutlineMail size={30}/>
              <h1>Email</h1>
              </div>   
                 <span className='font-semibold'>CoreFitness@gmail.com</span>
              </div>
-             <div className='bg-[#FFFFFF1A] md:w-[300px] w-[350px] h-[150px] rounded-[5px] flex flex-col justify-center items-center space-y-4'>
+             <div className='bg-[#FFFFFF1A] md:w-[300px] w-[340px] h-[150px] rounded-[5px] flex flex-col justify-center items-center space-y-4'>
              <div className='text-orange-500 flex items-center gap-1'><MdOutlineLocationOn size={30}/>
              <h1>Location</h1>
              </div>  
